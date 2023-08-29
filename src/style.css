@@ -1,0 +1,30 @@
+.container{
+    color: white;
+    background-image: url('./beautiful-girl-woman-monochrome-dark-background-portrait-5120x2880-2965.jpeg');
+    height: 600px;
+  
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: start;
+    padding-top: 50px;
+    padding-left: 90px;
+    
+    
+
+};
+ 
+.btn{
+   background-color: aqua;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 2px solid white;
+    margin-top: 30px;
+    text-transform: capitalize;
+}
